@@ -1,0 +1,6 @@
+The data-scroll-speed controls the speed of the motion, the best fit for what you prefer is between 2 and 5
+when u use (-) in the value of the speed, the direction and the behavior of the motion changes
+You can manipulate this: data-scroll-direction="horizontal",,, and choose the direction
+
+
+using this in angular should be as easy as including the JS files in the angular.json and making a whole component for the whole thing.
